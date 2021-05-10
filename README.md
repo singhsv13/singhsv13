@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Simarprit Singh Virdi.
-- 👀 I’m interested in Competetive Coding and Open Source Competetion.
+- 👀 I’m interested in Competetive Coding and Open Source Contribution.
 - 🌱 I’m currently learning Web Developement.
 - 📫 How to reach me 
 
