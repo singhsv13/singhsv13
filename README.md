@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Simarprit Singh Virdi.
-- 👀 I’m interested in Competetive Coding and Open Source Contribution.
+- 👀 I’m interested in Competetive Coding and Frontend Developement.
 - 🌱 I’m currently learning Web Developement.
 - 📫 LinkedIn - https://www.linkedin.com/in/simarprit-singh-virdi-4a6a26190
 
