@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Simarprit Singh Virdi.
 - 👀 Passionate Coder and Frontend Developer.
 - 🌱 I’m currently working on getting better in javascript.
-- 📫 LinkedIn - https://www.linkedin.com/in/simarprit-singh-virdi-4a6a26190
+- 📫 LinkedIn - linkedin.com/in/simarpritsinghvirdi
 
 <!---
 singhsv13/singhsv13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
