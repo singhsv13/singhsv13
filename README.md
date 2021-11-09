@@ -15,7 +15,6 @@
   I am a:
   <br>
 - Frontend Developer
-- Programmer
 - Problem Solver
  
 <br>
