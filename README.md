@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>𝓗𝓮𝔂 𝓽𝓱𝓮𝓻𝓮 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, 𝓘'𝓶 SV</h1>
+   <h1>𝓗𝓮𝔂 𝓽𝓱𝓮𝓻𝓮 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, 𝓘'𝓶  SV</h1>
 
   <img src="https://pronoun.cyou/x/y?subject=He&object=Him/His&height=20">
   
@@ -31,9 +31,9 @@ Connect with Me :
 </a>
 <br>
 
-#### IDE's Worked Upon:
+#### IDE's used:
 
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
 
 #### Languages & Tools Used :
 
