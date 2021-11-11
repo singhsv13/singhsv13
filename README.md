@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>𝓗𝓮𝔂 𝓽𝓱𝓮𝓻𝓮 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, 𝓘'𝓶  SV</h1>
+   <h1>Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Simar</h1>
 
   <img src="https://pronoun.cyou/x/y?subject=He&object=Him/His&height=20">
   
