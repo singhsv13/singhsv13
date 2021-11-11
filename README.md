@@ -17,6 +17,7 @@
   <br>
 - Frontend Developer
 - Problem Solver
+- Gamer
  
 <br>
 
@@ -29,6 +30,9 @@ Connect with Me :
 <a href="https://twitter.com/SimarpritSingh">
   <img align="left" alt="Simarprit Virdi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+<a href="https://www.instagram.com/simarpritvirdi/">
+    <img width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>
 <br>
 
 #### IDE's used:
