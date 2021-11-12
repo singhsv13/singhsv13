@@ -26,13 +26,13 @@ Connect with Me :
 <br>
 
 <a href="https://www.linkedin.com/in/simarpritsinghvirdi/">
-  <img align="left" alt="Simarprit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Simarprit's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/SimarpritSingh">
-  <img align="left" alt="Simarprit Virdi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Simarprit Virdi | Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/simarpritvirdi/">
-    <img width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+    <img width="25px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
 <br>
 
@@ -42,7 +42,7 @@ Connect with Me :
 
 #### Languages & Tools Used :
 
-<img src="https://img.icons8.com/fluency/48/000000/c.png"/><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/000000/python--v1.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/react-native.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/c.png"/><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/000000/python--v1.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/react-native.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <br>
 
 <br>
