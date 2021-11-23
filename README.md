@@ -49,7 +49,7 @@ Connect with Me :
   
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=singhsv13&show_icons=true&theme=nightowl)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=singhsv131&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=singhsv13&theme=dark)](https://git.io/streak-stats)
 
 
 
