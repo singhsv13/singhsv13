@@ -28,7 +28,7 @@ Connect with Me :
 <a href="https://www.linkedin.com/in/simarpritsinghvirdi/">
   <img align="left" alt="Simarprit's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/SimarpritSingh">
+<a href="https://twitter.com/SimarpritVirdi">
   <img align="left" alt="Simarprit Virdi | Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/simarpritvirdi/">
