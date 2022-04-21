@@ -57,7 +57,11 @@ Connect with Me :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=singhsv13&theme=dark)](https://git.io/streak-stats)
 
+<!-- ACTIVITY GRAPH TRACKER -->
+[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=singhsv13&theme=react-dark)](https://github.com/singhsv13/github-readme-activity-graph)
 
+  
+--->
 
 <!---
 singhsv13/singhsv13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
