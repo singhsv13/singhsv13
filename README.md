@@ -46,6 +46,11 @@ Connect with Me :
 <br>
 
 <br>
+
+<!--  TOP LANGUAGES STATISTICS -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhsv13&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ ---
   
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=singhsv13&show_icons=true&theme=radical)
 
