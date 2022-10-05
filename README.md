@@ -15,7 +15,7 @@
   
   I am a:
   <br>
-- Junior Year College Student
+- Senior Year College Student
 - Frontend Developer
 - Problem Solver
 - Gamer
