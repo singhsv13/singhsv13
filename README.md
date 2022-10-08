@@ -60,7 +60,7 @@ Connect with Me :
 <!-- ACTIVITY GRAPH TRACKER -->
 [![Simar's github activity graph](https://activity-graph.herokuapp.com/graph?username=singhsv13&theme=react-dark)](https://github.com/singhsv13/github-readme-activity-graph)
 
-
+[![@singhsv13's Holopin board](https://holopin.io/api/user/board?user=singhsv13)](https://holopin.io/@singhsv13)
 
 <!---
 singhsv13/singhsv13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
