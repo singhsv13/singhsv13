@@ -51,6 +51,7 @@ Connect with Me :
 <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhsv13&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
  
+[![@singhsv13's Holopin board](https://holopin.io/api/user/board?user=singhsv13)](https://holopin.io/@singhsv13)
   
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=singhsv13&show_icons=true&theme=radical)
 
@@ -60,7 +61,6 @@ Connect with Me :
 <!-- ACTIVITY GRAPH TRACKER -->
 [![Simar's github activity graph](https://activity-graph.herokuapp.com/graph?username=singhsv13&theme=react-dark)](https://github.com/singhsv13/github-readme-activity-graph)
 
-[![@singhsv13's Holopin board](https://holopin.io/api/user/board?user=singhsv13)](https://holopin.io/@singhsv13)
 
 <!---
 singhsv13/singhsv13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
