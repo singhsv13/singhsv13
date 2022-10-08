@@ -1,3 +1,5 @@
+[![@singhsv13's Holopin board](https://holopin.io/api/user/board?user=singhsv13)](https://holopin.io/@singhsv13)
+
 <div align="center">
    <h1>Hey There, I'm Simar</h1>
 
@@ -47,8 +49,6 @@ Connect with Me :
 <br>
 
 <br>
-
-[![@singhsv13's Holopin board](https://holopin.io/api/user/board?user=singhsv13)](https://holopin.io/@singhsv13)
 
 <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhsv13&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
