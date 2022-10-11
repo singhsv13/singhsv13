@@ -1,7 +1,7 @@
 [![@singhsv13's Holopin board](https://holopin.io/api/user/board?user=singhsv13)](https://holopin.io/@singhsv13)
 
 <div align="center">
-   <h1>Hey There, I'm Simar</h1>
+   <h1>Hey There 👋🏻, I'm Simar</h1>
 
   <img src="https://pronoun.cyou/x/y?subject=He&object=Him/His&height=20">
    
