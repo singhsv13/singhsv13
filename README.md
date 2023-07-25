@@ -18,17 +18,16 @@
   
   I am a:
   <br>
-- Senior Year College Student
-- Frontend Developer
-- Problem Solver
-- Gamer
+- Software Developer 🧑🏻‍💻
+- Gamer 🎮
+- Fitness Freak 💪🏻
  
 <br>
 
 Connect with Me : 
 <br>
 
-<a href="https://www.linkedin.com/in/simarpritsinghvirdi/">
+<a href="https://www.linkedin.com/in/simarpritvirdi/">
   <img align="left" alt="Simarprit's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/SVfied">
