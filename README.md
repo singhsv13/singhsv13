@@ -2,8 +2,6 @@
 
 <div align="center">
    <h1>Hey There 👋🏻, I'm Simar</h1>
-
-  <img src="https://pronoun.cyou/x/y?subject=He&object=Him/His&height=20">
    
   ![Profile Views](https://komarev.com/ghpvc/?username=singhsv13&&style=for-the-badge&color=orange)
    
@@ -26,16 +24,9 @@
 
 Connect with Me : 
 <br>
-
-<a href="https://www.linkedin.com/in/simarpritvirdi/">
-  <img align="left" alt="Simarprit's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/SVfied">
-  <img align="left" alt="Simarprit Virdi | Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/simarpritvirdi/">
-    <img width="25px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
+<a href="https://www.linkedin.com/in/simarpritvirdi/"><img height="50" align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/gymholicpaji/"><img height="50" align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://thevirdee.medium.com/"><img height="50" align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 <br>
 
 #### IDE's used:
