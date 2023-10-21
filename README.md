@@ -5,7 +5,7 @@
 
   <img src="https://pronoun.cyou/x/y?subject=He&object=Him/His&height=20">
    
-  ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=singhsv13.singhsv13)
+  ![Profile Views](https://komarev.com/ghpvc/?username=singhsv13&&style=for-the-badge&color=orange)
    
   <br>
   </div>
