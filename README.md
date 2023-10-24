@@ -17,9 +17,11 @@
 I am a:
   <br>
 - Software Developer 🧑🏻‍💻
-- Gamer 🎮
-- Fitness Freak 💪🏻
- 
+- Gamer 🎮 
+- Fitness Enthusiast 💪🏻
+- Content Creator 🎥
+
+  
 <br>
 
 Connect with Me : 
@@ -32,7 +34,7 @@ Connect with Me :
 
 IDE's used:
 
-<img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png"> <img height="50" src ="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png"/>
+<img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"> &ensp; <img height="50" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png"> &ensp; <img height="50" src ="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png"/>
 
 Languages & Tools Used :
 
@@ -42,16 +44,13 @@ Languages & Tools Used :
 <br>
 
 <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhsv13&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhsv13&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats) &emsp; ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=singhsv13&show_icons=true&theme=radical)
  
   
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=singhsv13&show_icons=true&theme=radical)
+<br>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=singhsv13&theme=dark)](https://git.io/streak-stats)
-
-<!-- ACTIVITY GRAPH TRACKER -->
-[![Simar's github activity graph](https://activity-graph.herokuapp.com/graph?username=singhsv13&theme=react-dark)](https://github.com/singhsv13/github-readme-activity-graph)
 
 
 <!---
