@@ -31,10 +31,6 @@
 
 ---
 
-
-
----
-
 ### 🔠 My Tech Stack  
 
 #### 💻 Programming Languages  
