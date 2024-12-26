@@ -95,6 +95,6 @@
 
 <div align="center">
 
-### 🚀 Feel free to fork and contribute to my projects! Let's connect and grow together.  
+### 🚀 Let's connect and grow together.  
 
 </div>
