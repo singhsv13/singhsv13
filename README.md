@@ -2,7 +2,7 @@
 
 # Hi, I'm Simar! 👋
 
-🚀 **Software Developer** | 🎮 **Gamer** | 📊 **Fitness Enthusiast** | 🎥 **Content Creator**  
+👩🏻‍💻 **Software Developer** | 🎮 **Gamer** | 💪🏻 **Fitness Enthusiast** | 🎥 **Content Creator**  
 
 [![@singhsv13's Holopin board](https://holopin.io/api/user/board?user=singhsv13)](https://holopin.io/@singhsv13)
 
