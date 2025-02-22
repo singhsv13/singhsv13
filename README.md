@@ -8,6 +8,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=singhsv13&&style=for-the-badge&color=orange)
 
+---
+
 <div align="center">
 
 ### 🌐 Connect with Me 
@@ -15,17 +17,24 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simarpritvirdi/) 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/simarizzed/) 
   
-
 </div>
 
-</div>
+
 ---
+
+
 <div align="center">
-## 📫 Find Me On: 
+  
+### 📫 Find Me On: 
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://simarvirdee.medium.com)
-<a href="https://leetcode.com/underdog13/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
-<a href="https://www.hackerrank.com/singhsv13">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/underdog13/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/singhsv13)
 </div>
+
+
+</div>
+
+
 ---
 
 ### 👨‍💻 About Me  
